@@ -1,4 +1,4 @@
-# 🚀 API de Gestión de Productos con Autenticación yAuthorizacón
+# 🚀 API de Gestión de Productos con Autenticación y Authorizacón
 
 ## 📌 Descripción
 
